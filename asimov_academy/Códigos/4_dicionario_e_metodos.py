@@ -50,9 +50,4 @@ print('\nProdutos existentes:')
 for par in produtos.items():
     print(par)
 
-
-
-
-
-
 print('\n \n .....by Erick Saraiva')
